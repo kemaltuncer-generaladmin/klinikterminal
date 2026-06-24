@@ -2,5 +2,6 @@
 node_modules
 .DS_Store
 coolify-generated
-*backup*
+backup_*.tar.gz
+*.sql
 *.bak
